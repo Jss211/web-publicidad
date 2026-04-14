@@ -432,10 +432,10 @@ function App() {
               </p>
 
               <div className="contact-cards">
-                <a href="https://wa.me/51986182856" target="_blank" rel="noreferrer">
+                <a href="https://wa.me/51901520012" target="_blank" rel="noreferrer">
                   <div>
                     <strong>WhatsApp</strong>
-                    <span>+51 986 182 856</span>
+                    <span>+51 901 520 012</span>
                   </div>
                 </a>
                 <a href="mailto:jordanpmrojasbazan@gmail.com">
