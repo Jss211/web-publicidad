@@ -513,7 +513,7 @@ function App() {
                 </button>
                 <a
                   className="btn btn-secondary submit-button"
-                  href={`https://wa.me/51986182856?text=${whatsappMessage}`}
+                  href={`https://wa.me/51901520012?text=${whatsappMessage}`}
                   target="_blank"
                   rel="noreferrer"
                 >
